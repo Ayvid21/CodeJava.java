@@ -1,4 +1,4 @@
 # CodeJava.java
 Daily Practice : java coding Questions from:
-Leetcode
+Leetcode/
 GeeksForGeeks
